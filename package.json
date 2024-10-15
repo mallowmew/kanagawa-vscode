@@ -1,15 +1,15 @@
 {
-    "name": "kanagawa",
-    "displayName": "Kanagawa",
+    "name": "nyanagawa",
+    "displayName": "Nyanagawa",
     "description": "Port of the Kanagawa.nvim - dark theme inspired by the colors of the famous painting by Katsushika Hokusai.",
-    "version": "1.5.1",
-    "publisher": "qufiwefefwoyn",
+    "version": "1.6.1",
+    "publisher": "mallowmew",
     "icon": "assets/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/barklan/kanagawa.vscode"
+        "url": "https://github.com/mallowmew/kanagawa-vscode"
     },
-    "homepage": "https://github.com/barklan/kanagawa.vscode",
+    "homepage": "https://github.com/mallowmew/kanagawa-vscode",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -25,29 +25,12 @@
         "elegant",
         "calm"
     ],
-    "badges": [
-        {
-            "url": "https://vsmarketplacebadge.apphb.com/version/qufiwefefwoyn.kanagawa.svg",
-            "href": "https://marketplace.visualstudio.com/items/qufiwefefwoyn.kanagawa",
-            "description": "Extension version"
-        },
-        {
-            "url": "https://vsmarketplacebadge.apphb.com/installs/qufiwefefwoyn.kanagawa.svg",
-            "href": "https://marketplace.visualstudio.com/items/qufiwefefwoyn.kanagawa",
-            "description": "Extension installs"
-        },
-        {
-            "url": "https://vsmarketplacebadge.apphb.com/rating/qufiwefefwoyn.kanagawa.svg",
-            "href": "https://marketplace.visualstudio.com/items/qufiwefefwoyn.kanagawa",
-            "description": "Extension Rating"
-        }
-    ],
     "contributes": {
         "themes": [
             {
-                "label": "Kanagawa",
+                "label": "Nyanagawa",
                 "uiTheme": "vs-dark",
-                "path": "./themes/kanagawa-color-theme.json"
+                "path": "./themes/nyanagawa-color-theme.json"
             }
         ]
     }
