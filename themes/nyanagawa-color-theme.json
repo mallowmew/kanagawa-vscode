@@ -111,6 +111,7 @@
     "panel.border": "#5E516899",
     "panelSectionHeader.background": "#232127",
     "panelStickyScroll.shadow": "#00000000",
+    "panelTitle.activeForeground": "#DCD7BA",
     "peekView.border": "#5E5168",
     "peekViewEditor.background": "#232127",
     "peekViewEditor.matchHighlightBackground": "#5E5168CC",
