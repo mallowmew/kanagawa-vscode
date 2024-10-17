@@ -370,7 +370,7 @@
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#FF9D66"
+        "foreground": "#FF9E3B"
       }
     },
     {
